@@ -7,11 +7,10 @@ st.set_page_config(
     layout='centered',
     initial_sidebar_state='auto',
     menu_items={
-        'Help': None,
+        'Get Help': None,
         'Report a bug': None,
         'About': None
     }
 )
-
 
 st.title("Hello World")

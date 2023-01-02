@@ -1,5 +1,15 @@
-# Streamlit-Plantilla-Basica
+# Temas populares GitHUb
 
-Este repositorio contiene una plantilla de inicio para desarrollar aplicaciones de análisis de datos utilizando el framework Streamlit. La plantilla incluye una estructura de proyecto básica, así como algunos archivos de configuración útiles para el desarrollo y el despliegue.
+Bienvenido al repositorio de Temas Populares en GitHub
 
-Con esta plantilla, podrás empezar a desarrollar tus aplicaciones de análisis de datos de manera rápida y eficiente sin tener que preocuparte por configurar todo desde cero. Además, la plantilla está diseñada para ser fácilmente extensible, por lo que podrás añadir más funcionalidades y personalizarla según tus necesidades.
+Este proyecto es una aplicación desarrollada con Streamlit que permite analizar el conteo de los temas más estrellados del 2022 en la plataforma de GitHub.
+
+## Acerca del set de datos
+
+El set de datos usado en este ejemplo fue porporcionado por el usuario [Jishnu](https://www.kaggle.com/jishnukoliyadan) en la comunidad de [kaggle](https://www.kaggle.com/datasets/jishnukoliyadan/github-topics-star-count) y contiene el conteo de estrellas de los temas mas populares en GitHub recopilado por medio de tecnicas de web scraping con Selenium y BeautifulSoup.
+
+Puedes encontrar el codigo con el que se recopilaron los datos en el siguiente enlace: [Tutorial](https://www.kaggle.com/code/jishnukoliyadan/data-collection-web-scrapping-tutorial)
+
+## Procedencia de los datos
+
+<https://github.com/topics>

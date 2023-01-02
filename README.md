@@ -1,15 +1,13 @@
-# Temas populares GitHUb
+# Lenguajes populares GitHUb
 
-Bienvenido al repositorio de Temas Populares en GitHub
+Bienvenido al repositorio de lenguajes populares en GitHub
 
-Este proyecto es una aplicación desarrollada con Streamlit que permite analizar el conteo de los temas más estrellados del 2022 en la plataforma de GitHub.
+Este proyecto es una aplicación desarrollada con Streamlit que permite analizar el conteo de los lenguajes de programacion mas populares al cierre del 2022 en la plataforma de GitHub.
 
 ## Acerca del set de datos
 
-El set de datos usado en este ejemplo fue porporcionado por el usuario [Jishnu](https://www.kaggle.com/jishnukoliyadan) en la comunidad de [kaggle](https://www.kaggle.com/datasets/jishnukoliyadan/github-topics-star-count) y contiene el conteo de estrellas de los temas mas populares en GitHub recopilado por medio de tecnicas de web scraping con Selenium y BeautifulSoup.
-
-Puedes encontrar el codigo con el que se recopilaron los datos en el siguiente enlace: [Tutorial](https://www.kaggle.com/code/jishnukoliyadan/data-collection-web-scrapping-tutorial)
+El set de datos usado en este ejemplo fue porporcionado por el usuario [Isaac Wen](https://www.kaggle.com/isaacwen) en la comunidad de [kaggle](https://www.kaggle.com/datasets/isaacwen/github-programming-languages-data) y contiene datos sobre lenguajes de programacion, especificamente sobre repositorios dentro de la plataforma de GitHub.
 
 ## Procedencia de los datos
 
-<https://github.com/topics>
+Datos publicos de GitHub en githubarchive en BigQuery

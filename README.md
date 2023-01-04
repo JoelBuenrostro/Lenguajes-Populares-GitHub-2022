@@ -1,4 +1,4 @@
-# Lenguajes populares GitHUb
+# Lenguajes populares GitHub
 
 Bienvenido al repositorio de lenguajes populares en GitHub
 

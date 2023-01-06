@@ -71,6 +71,10 @@ top = df.head(25)
 st.plotly_chart(px.bar(top, x='languaje', y='repos'))
 st.plotly_chart(px.pie(top, values='repos', names='languaje'))
 
+st.subheader('Lista completa')
+
+st.dataframe(df)
+
 st.markdown('''
     [![Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joelbuenrostro/)
     [![Follow](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/esteGeek)
